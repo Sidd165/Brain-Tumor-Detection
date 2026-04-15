@@ -65,11 +65,16 @@ Brain_Tumor/
 │   └── package.json
 │
 ├── models/
-│   └── model (1).h5            # Pre-trained model weights ✅
+│   └── model (1).h5            # Pre-trained model weights (Download below)
 └── brain-tumor-mri-dataset/    # MRI images (Training + Testing)
     ├── Training/
     └── Testing/
 ```
+
+### 🧠 Model Weights
+Due to file size limits on GitHub, the trained model weights are hosted on Google Drive:
+- [Download Pre-trained Model (.h5)](https://drive.google.com/file/d/1VjA2BHQ0gPQKGArruFhyPXX7A-_rADwk/view?usp=sharing)
+- Place the downloaded file inside the `models/` directory before running the backend.
 
 ---
 
